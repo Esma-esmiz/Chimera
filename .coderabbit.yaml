@@ -33,6 +33,5 @@ reviews:
         - Unsafe file handling
         - Credential exposure
         - Improper exception handling
-
 chat:
   auto_reply: true
